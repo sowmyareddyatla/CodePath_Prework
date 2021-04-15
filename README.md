@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='CodePath_Prework/Images/Tip Calculator Walkthrough.gif' ' width='250' alt='Video Walkthrough' />
+<img src='Images/Tip Calculator Walkthrough.gif' ' width='250' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](https://ezgif.com/cut).
 
